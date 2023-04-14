@@ -6,4 +6,5 @@
     console.log("Gato!")
  }
 
- // Aquí tú código
+ // Aquí tú códigoñ
+ muestraGato();
